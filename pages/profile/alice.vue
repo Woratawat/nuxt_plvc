@@ -44,7 +44,7 @@
 
 <script setup>
 const profile = {
-  name: 'Alice',
+  name: 'kanoon',
   role: 'Frontend Developer',
   avatar: 'https://i.pravatar.cc/150?u=alice', // เปลี่ยน URL ตามชื่อ
   github: 'https://github.com/alice',

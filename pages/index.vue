@@ -1,5 +1,5 @@
 <template>
-  <v-app>
+  <!-- <v-app>
     <v-container>
       <h2>สมาชิกทีม</h2>
       <ul>
@@ -7,5 +7,5 @@
       </ul>
       <NuxtPage />
     </v-container>
-  </v-app>
+  </v-app> -->
 </template>
